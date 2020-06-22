@@ -1,0 +1,7 @@
+2020-06-14
+data
+model/
+process/lumbar_train51
+process/lumbar_train150
+process/model
+*.npz
